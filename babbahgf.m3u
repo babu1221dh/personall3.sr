@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="news", news
+http://priotomo.com:8080/GeoNews/tracks-v1a1/mono.m3u8
+
